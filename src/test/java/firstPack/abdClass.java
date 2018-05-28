@@ -15,7 +15,7 @@ public class abdClass {
 
 
             } else{
-                break;
+                break; // without it may cause infinity //
             }
 
         }
